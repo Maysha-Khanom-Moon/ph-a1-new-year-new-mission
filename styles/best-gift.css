@@ -1,5 +1,26 @@
 .best-gift {
-    margin-bottom: 120px;
     display: grid;
     justify-content: left;
+    margin-bottom: 120px;
+    justify-content: center;
+}
+
+.best-gift .center, .best-gift .bottom {
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+}
+
+.best-gift img {
+    width: 400px;
+    border-radius: 16px;
+}
+
+.best-gift img:hover {
+    cursor: pointer;
+    box-shadow: 3px 3px 8px 2px #0853f5;
+}
+
+.best-gift .center {
+    margin-bottom: 24px;
 }
