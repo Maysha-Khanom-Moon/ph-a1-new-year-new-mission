@@ -26,11 +26,18 @@ footer .top {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0;
+}
+
+footer .top-left {
+    width: 375px;
 }
 
 footer .top-right {
-    margin-right: 135px;
+    margin-right: 130px;
+}
+
+footer > .top img {
+    margin-right: 10px;
 }
 
 footer .center {
