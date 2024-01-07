@@ -2,7 +2,33 @@
     display: grid;
     justify-content: left;
     margin-bottom: 120px;
-    justify-content: center;
+}
+
+.best-gift .top > h4 {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin: 0;
+}
+
+.best-gift .top > h2 {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    margin-bottom: 22px;
+    margin-top: 16px;
+}
+
+.best-gift .top > p {
+    color: #07021199;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    width: 896px;
+    margin-bottom: 48px;
 }
 
 .best-gift .center, .best-gift .bottom {
@@ -18,7 +44,7 @@
 
 .best-gift img:hover {
     cursor: pointer;
-    box-shadow: 3px 3px 8px 2px #0853f5;
+    box-shadow: 3px 3px 8px 3px #a3e811;
 }
 
 .best-gift .center {
