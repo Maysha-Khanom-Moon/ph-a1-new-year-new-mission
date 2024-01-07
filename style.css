@@ -22,12 +22,23 @@ footer hr {
     margin: 50px 0;
 }
 
+footer .top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0;
+}
+
+footer .top-right {
+    margin-right: 135px;
+}
+
 footer .center {
     display: flex;
     justify-content: center;
 }
 
-.center img {
+.center a{
     height: 65px;
     width: 65px;
     margin: 0 24px;
