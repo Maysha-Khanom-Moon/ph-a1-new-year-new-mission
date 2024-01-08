@@ -44,7 +44,7 @@
 
 .best-gift img:hover {
     cursor: pointer;
-    box-shadow: 3px 3px 8px 3px #a3e811;
+    box-shadow: 5px 5px 5px 7px #aeff00;
 }
 
 .best-gift .center {
