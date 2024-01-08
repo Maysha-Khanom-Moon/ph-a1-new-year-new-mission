@@ -38,13 +38,15 @@
 }
 
 .best-gift img {
-    width: 400px;
+    position: relative;
+    width: 391px;
     border-radius: 16px;
 }
 
 .best-gift img:hover {
     cursor: pointer;
-    box-shadow: 5px 5px 5px 7px #aeff00;
+    box-shadow: 5px 5px 5px 7px #000000;
+    filter: contrast(110%) brightness(110%);
 }
 
 .best-gift .center {
