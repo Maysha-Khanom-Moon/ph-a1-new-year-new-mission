@@ -1,0 +1,32 @@
+.new-off {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 805px;
+    margin-bottom: 120px;
+}
+
+.new-off h1 {
+    color: #F00;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 800;
+    margin-bottom: 48px;
+}
+
+.new-off p {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 16px;
+}
+
+.new-off h2 {
+    color: #070211;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 48px;
+}
