@@ -7,10 +7,10 @@ header {
     background-repeat: repeat-x;
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 .banner {
-    margin-top: 170px;
     width: 630px;
     text-align: center;
 }
